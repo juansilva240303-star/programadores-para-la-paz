@@ -1,0 +1,13 @@
+cd Desktop
+mkdir programadores-para-la-paz
+cd programadores-para-la-paz
+git init
+mkdir semana2
+cd semada2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+nano preguntas-semana22.txt
+nano comandos-terminal.txt
+nano relexion-semana2.txt
+
