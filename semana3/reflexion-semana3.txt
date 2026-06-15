@@ -1,0 +1,2 @@
+Pienso que es importante llevar un registro de cambios de proyectos de software porque permite tener un mejor control de trabajo realizado, con git podemos saber que modificaciones se hicieron, cuando se hicieron y quien las realizo,y si ocurre un error se puede regresar a una version anterior y corregir el problema mas facil.tambien facilita el trabajo en equipo ya que varias personas pueden colaborar en el mismo proyecto de manera organizada.Gracias a estas herramientas se evita perder informacion importante y se mantiene un historial de todo el proceso de desarrollo.
+
