@@ -1,0 +1,12 @@
+Al consultar la ruta GET /reportes, el servidor muestra la lista de reportes que han sido registrados en memoria.
+
+Cuando todavía no se ha enviado ningún reporte, la respuesta aparece como un array vacío: [].
+
+Después de enviar un reporte con la ruta POST /reportes, ese reporte queda guardado temporalmente en el array llamado reportes.
+
+Luego, al volver a consultar GET /reportes, aparece el reporte registrado con su id, tipo y descripción.
+
+Esto permite comprobar que la API está funcionando correctamente para registrar y consultar información.
+
+También entendí que los datos solo se guardan mientras el servidor está encendido, porque todavía no estamos usando una base de datos.
+
