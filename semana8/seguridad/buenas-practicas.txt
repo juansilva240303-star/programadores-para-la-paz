@@ -1,0 +1,3 @@
+1. Proteger las contraseñas y no compartirlas con otras personas.
+2. No publicar credenciales, claves o datos privados en archivos públicos.
+3. Mantener el sistema y los programas actualizados para evitar fallas de seguridad.

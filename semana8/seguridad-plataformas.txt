@@ -1,0 +1,13 @@
+1. No exponer datos personales de los usuarios en espacios públicos.
+
+2. Proteger las credenciales de acceso, como usuarios y contraseñas.
+
+3. Usar contraseñas fuertes y cambiarlas cuando sea necesario.
+
+4. Limitar el acceso a la información sensible solo a las personas autorizadas.
+
+5. Mantener actualizada la plataforma para corregir fallas de seguridad.
+
+6. Registrar los accesos o cambios importantes dentro del sistema.
+
+7. Usar conexiones seguras para proteger la información que se envía y recibe.
